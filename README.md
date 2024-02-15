@@ -1,6 +1,10 @@
 # dot-files
 Dot Files to Sync 
 
+### Dependencies for Fish
+
+1. Zoxide
+2. Starship
 
 ### Terminal
 
